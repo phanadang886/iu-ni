@@ -304,7 +304,7 @@ envelopeBox.addEventListener("click", (e) => {
 // 5. MÀN 2: ĐỒNG HỒ ĐẾM NGÀY YÊU (FIX CỨNG 01/09/2024) & THƯ ĐÁNH MÁY
 // ==========================================================================
 const tDays = document.getElementById("t-days");
-const FIXED_START_TIME = new Date("2024-09-01T00:00:00").getTime();
+const FIXED_START_TIME = new Date("2025-09-01T00:00:00").getTime();
 
 function updateLoveTimer() {
   const now = Date.now();
