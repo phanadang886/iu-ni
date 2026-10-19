@@ -1,0 +1,16 @@
+HƯỚNG DẪN ĐƯA 28 BỨC ẢNH CỦA BẠN VÀO TRANG WEB TẶNG NI (20/10)
+================================================================
+
+CÁCH 1 (Khuyên dùng - Cố định ảnh vào web):
+1. Chép 28 bức ảnh kỷ niệm của hai bạn vào đúng thư mục này: D:\web cho ni\images\
+2. Đặt tên ảnh lần lượt từ: 1.jpg, 2.jpg, 3.jpg ... đến 28.jpg
+3. Mở file D:\web cho ni\index.html bằng trình duyệt (Chrome, Edge, Cốc Cốc...) là 28 ảnh sẽ tự động hiện lên xếp thành hình trái tim!
+
+CÁCH 2 (Chọn ảnh nhanh ngay trên màn hình web - Không cần đổi tên file):
+1. Mở trực tiếp file D:\web cho ni\index.html
+2. Bấm vào nút "🖼️ Nạp 28 Ảnh" ở thanh menu trên cùng.
+3. Quét chọn cùng lúc 28 bức ảnh bất kỳ trong máy tính của bạn -> Trang web sẽ lập tức đưa 28 ảnh đó vào Trái Tim, Dây treo Polaroid và Bộ bài 28 lá!
+
+TUỲ CHỈNH THÊM:
+- Muốn đổi nhạc nền: Bỏ 1 file nhạc mp3 vào thư mục D:\web cho ni\ và đặt tên là music.mp3 (Nếu chưa có file music.mp3, web đã có sẵn giai điệu Music Box tình yêu tự động phát khi mở phong bì!).
+- Muốn sửa lời chúc hoặc lời nhắn cho từng bức ảnh: Mở file D:\web cho ni\script.js bằng Notepad để chỉnh lại theo ý bạn.
